@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 6498e3a91b05c4544a373586b8fe6548
+timeCreated: 1484966542
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: t_rex_body
+    21300002: t_rex_leg
+    21300004: t_rex_head
+    21300006: t_rex_jaw_open_back
+    21300008: t_rex_jaw_open
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: t_rex_body
+      rect:
+        serializedVersion: 2
+        x: 21.776794
+        y: 708.35126
+        width: 902.7254
+        height: 315.64874
+      alignment: 9
+      pivot: {x: 0.4421136, y: 0.21968742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: t_rex_leg
+      rect:
+        serializedVersion: 2
+        x: 13.792885
+        y: 377.0882
+        width: 147
+        height: 305
+      alignment: 9
+      pivot: {x: 0.459331, y: 0.7614852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: t_rex_head
+      rect:
+        serializedVersion: 2
+        x: 233.13739
+        y: 541.58777
+        width: 191
+        height: 131
+      alignment: 9
+      pivot: {x: 0.14249665, y: 0.31555364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: t_rex_jaw_open_back
+      rect:
+        serializedVersion: 2
+        x: 649.1759
+        y: 507.55573
+        width: 159.6543
+        height: 130.14142
+      alignment: 9
+      pivot: {x: 0.5808861, y: 0.5299031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: t_rex_jaw_open
+      rect:
+        serializedVersion: 2
+        x: 464.53296
+        y: 458.28943
+        width: 191
+        height: 211
+      alignment: 9
+      pivot: {x: 0.49869302, y: 0.49226215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: trex
+  userData: 97321842544331
+  assetBundleName: 
+  assetBundleVariant: 
