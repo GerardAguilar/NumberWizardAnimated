@@ -55,7 +55,7 @@ public class NumberWizard : MonoBehaviour {
         "Welcome to Number Wizard\n" +
         "Pick a number in your head, but don't tell me!\n\n" +
 
-        "The highest number you can pick is " + (max - 1) + "\n" +
+        "The highest number you can pick is " + (max) + "\n" +
         "The lowest number you can pick is " + min;        
 
         instructions.text = str;
